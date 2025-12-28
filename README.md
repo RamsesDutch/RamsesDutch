@@ -1,6 +1,6 @@
 ## Hi there 👋
-I’m **Ramses** (he/him), a **Cybersecurity student and junior DFIR-oriented practitioner** preparing for a career in **Digital Forensics & Incident Response**, with a long-term goal of working in **Zurich, Switzerland 🇨🇭**.  
-My focus is on **incident analysis, artifact collection, Linux/Windows systems, and networking**, with all work **clearly documented and reproducible**.
+I’m Ramses (he/him), a Cybersecurity student and aspiring junior DFIR-oriented practitioner preparing for a career in Digital Forensics & Incident Response.
+My focus is on incident analysis, artifact collection, Linux/Windows systems, and networking, with all work clearly documented and reproducible.
 
 ---
 
@@ -16,9 +16,9 @@ My focus is on **incident analysis, artifact collection, Linux/Windows systems, 
 ---
 
 ## ⚡️ Core projects
-- **Ransomware Incident Analysis Lab** — DFIR lab covering **execution analysis, artifact collection, timeline reconstruction, and remediation** of a simulated ransomware incident.
-- **DFIR Home Lab** — Multi-VM environment (Ubuntu Server/Desktop, Kali, Windows 10, Metasploitable 2) used for **incident simulation and forensic analysis** across IPv4/IPv6 networks.
-- **Cybersecurity Portfolio Site** — Jekyll-based site documenting **DFIR-style investigations, labs, and reports**.
+- **Ransomware Incident Analysis Lab** — DFIR lab covering execution analysis, artifact collection, timeline reconstruction, and remediation of a simulated ransomware incident.
+- **DFIR Home Lab** — Multi-VM environment (Ubuntu Server/Desktop, Kali, Windows 10, Metasploitable 2) used for incident simulation and forensic analysis across IPv4/IPv6 networks.
+- **Cybersecurity Portfolio Site** — Jekyll-based site documenting DFIR-style investigations, labs, and reports.
 
 ---
 
