@@ -4,10 +4,6 @@ My focus is on incident analysis, artifact collection, Linux/Windows systems, an
 
 ---
 
-**Ramses’ GitHub stats**
-
----
-
 ## 📯 Where to find me
 - 🌐 **Portfolio:** https://ramsesdutch.github.io
 - ✍️ **Blog:** Integrated into my portfolio
