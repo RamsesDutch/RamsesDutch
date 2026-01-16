@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Ramses , a Cybersecurity student and aspiring junior DFIR-oriented practitioner preparing for a career in Digital Forensics & Incident Response.
+I’m Ramses, a Cybersecurity student and aspiring junior DFIR-oriented practitioner preparing for a career in Digital Forensics & Incident Response.
 My focus is on incident analysis, artifact collection, Linux/Windows systems, and networking, with all work clearly documented and reproducible.
 
 ---
