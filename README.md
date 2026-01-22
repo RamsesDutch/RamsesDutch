@@ -8,7 +8,7 @@ My focus is on **incident analysis, artifact collection, Linux and Windows syste
 
 ## 📍 Where to find me
 - 💼 **GitHub:** You’re already here  
-- 🔗 **LinkedIn:** www.linkedin.com/in/ramses-dutch  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ramses-van-voorst-tot-voorst/)
   *(Open to junior roles and internships in Switzerland)*
 
 ---
