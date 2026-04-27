@@ -15,7 +15,7 @@ My focus is on **incident analysis, artifact collection, Linux and Windows syste
 
 ## ⭐ Highlighted projects
 
-- **[Azure SOC Honeynet Lab (Microsoft Sentinel)](https://github.com/ramsesdutch/azure-soc-honeynet-lab)**  
+- **[Azure SOC Honeynet Lab (Microsoft Sentinel)](https://github.com/ramsesdutch/Azure-SOC-Honeynet)**  
   Cloud-based honeynet environment deployed in Microsoft Azure to simulate real-world attack traffic, collect telemetry via Log Analytics, and investigate incidents using Microsoft Sentinel.  
   Includes Windows + Linux monitoring, SQL authentication logging, NSG flow logs, Defender for Cloud integration, and KQL-based threat hunting.
 
